@@ -1,0 +1,251 @@
+id_transaksi,tanggal,jam,produk,kategori,jumlah,harga,diskon,total,metode_bayar,fakultas
+TRX-0196,2026-05-01,09:20,Soto Ayam,Makanan Berat,2,17000,0,34000,Cash,Ekonomi dan Bisnis
+TRX-0145,2026-05-01,09:50,Soto Ayam,Makanan Berat,3,17000,3000,48000,QRIS,Ilmu Komunikasi
+TRX-0019,2026-05-01,11:45,Nasi Goreng,Makanan Berat,1,16000,3000,13000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0086,2026-05-01,11:55,Kentang Goreng,Snack,1,10000,0,10000,QRIS,Ekonomi dan Bisnis
+TRX-0037,2026-05-01,12:10,Pisang Goreng,Snack,4,8000,3000,29000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0049,2026-05-01,13:50,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0168,2026-05-01,14:20,Pisang Goreng,Snack,1,8000,0,8000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0069,2026-05-01,16:55,Jus Alpukat,Minuman,1,12000,0,12000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0234,2026-05-02,08:05,Soto Ayam,Makanan Berat,1,17000,1000,16000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0044,2026-05-02,08:25,Kopi Susu,Minuman,2,10000,0,20000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0092,2026-05-02,08:45,Es Teh,Minuman,2,5000,0,10000,Cash,Ekonomi dan Bisnis
+TRX-0191,2026-05-02,09:20,Es Teh,Minuman,3,5000,0,15000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0073,2026-05-02,12:30,Soto Ayam,Makanan Berat,1,17000,0,17000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0147,2026-05-02,13:40,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ekonomi dan Bisnis
+TRX-0068,2026-05-02,14:35,Mie Goreng,Makanan Berat,1,14000,2000,12000,QRIS,Ilmu Komunikasi
+TRX-0104,2026-05-02,14:50,Es Jeruk,Minuman,1,7000,0,7000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0204,2026-05-02,16:35,Kopi Susu,Minuman,4,10000,0,40000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0075,2026-05-03,08:45,Kopi Susu,Minuman,2,10000,0,20000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0221,2026-05-03,10:10,Pisang Goreng,Snack,2,8000,0,16000,Cash,Ilmu Komunikasi
+TRX-0020,2026-05-03,10:50,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Cash,Ilmu Komunikasi
+TRX-0192,2026-05-03,11:35,Es Jeruk,Minuman,1,7000,2000,5000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0042,2026-05-03,12:10,Es Teh,Minuman,3,5000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0054,2026-05-03,12:40,Jus Alpukat,Minuman,4,12000,0,48000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0103,2026-05-03,12:45,Mie Goreng,Makanan Berat,1,14000,1000,13000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0182,2026-05-03,14:10,Es Teh,Minuman,1,5000,0,5000,Debit,Ilmu Komunikasi
+TRX-0226,2026-05-03,14:45,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Cash,Ilmu Komunikasi
+TRX-0011,2026-05-03,14:50,Mie Goreng,Makanan Berat,2,14000,1000,27000,QRIS,Ekonomi dan Bisnis
+TRX-0179,2026-05-03,16:45,Kentang Goreng,Snack,1,10000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0023,2026-05-04,08:05,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0131,2026-05-04,10:05,Air Mineral,Minuman,2,4000,0,8000,QRIS,Ekonomi dan Bisnis
+TRX-0100,2026-05-04,10:20,Es Teh,Minuman,2,5000,2000,8000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0250,2026-05-04,10:20,Es Teh,Minuman,2,5000,1000,9000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0231,2026-05-04,10:25,Nasi Ayam Geprek,Makanan Berat,2,18000,1000,35000,QRIS,Hukum
+TRX-0040,2026-05-04,12:20,Jus Alpukat,Minuman,1,12000,0,12000,QRIS,Ekonomi dan Bisnis
+TRX-0169,2026-05-04,13:05,Roti Bakar,Snack,4,12000,0,48000,Debit,Ekonomi dan Bisnis
+TRX-0206,2026-05-04,13:10,Kopi Susu,Minuman,2,10000,0,20000,QRIS,Hukum
+TRX-0216,2026-05-04,13:50,Nasi Goreng,Makanan Berat,1,16000,0,16000,Cash,Hukum
+TRX-0212,2026-05-05,10:50,Nasi Ayam Geprek,Makanan Berat,2,18000,0,36000,QRIS,Ekonomi dan Bisnis
+TRX-0076,2026-05-05,12:25,Mie Goreng,Makanan Berat,1,14000,0,14000,Debit,Ekonomi dan Bisnis
+TRX-0161,2026-05-05,15:25,Es Jeruk,Minuman,5,7000,0,35000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0063,2026-05-05,15:45,Kopi Susu,Minuman,2,10000,3000,17000,QRIS,Hukum
+TRX-0186,2026-05-05,16:00,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ekonomi dan Bisnis
+TRX-0138,2026-05-05,16:10,Nasi Ayam Geprek,Makanan Berat,1,18000,3000,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0162,2026-05-06,08:10,Roti Bakar,Snack,2,12000,0,24000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0030,2026-05-06,08:30,Roti Bakar,Snack,2,12000,1000,23000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0180,2026-05-06,08:50,Bakso,Makanan Berat,2,15000,0,30000,Cash,Ekonomi dan Bisnis
+TRX-0124,2026-05-06,10:15,Nasi Ayam Geprek,Makanan Berat,2,18000,0,36000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0077,2026-05-06,12:05,Es Teh,Minuman,4,5000,0,20000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0090,2026-05-06,12:05,Mie Goreng,Makanan Berat,2,14000,0,28000,QRIS,Ilmu Komunikasi
+TRX-0163,2026-05-06,15:30,Es Jeruk,Minuman,1,7000,0,7000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0082,2026-05-06,15:35,Es Jeruk,Minuman,4,7000,0,28000,Cash,Ekonomi dan Bisnis
+TRX-0109,2026-05-07,08:50,Soto Ayam,Makanan Berat,1,17000,0,17000,Cash,Ekonomi dan Bisnis
+TRX-0028,2026-05-07,09:35,Es Teh,Minuman,1,5000,0,5000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0045,2026-05-07,10:15,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0246,2026-05-07,15:40,Es Teh,Minuman,5,5000,0,25000,QRIS,Hukum
+TRX-0062,2026-05-08,09:35,Nasi Goreng,Makanan Berat,3,16000,0,48000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0197,2026-05-08,09:35,Soto Ayam,Makanan Berat,1,17000,0,17000,Cash,Ekonomi dan Bisnis
+TRX-0194,2026-05-08,10:00,Nasi Ayam Geprek,Makanan Berat,2,18000,1000,35000,Cash,Ilmu Komunikasi
+TRX-0084,2026-05-08,13:10,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0116,2026-05-08,14:30,Es Teh,Minuman,1,5000,0,5000,QRIS,Ilmu Komunikasi
+TRX-0067,2026-05-08,15:30,Roti Bakar,Snack,1,12000,0,12000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0095,2026-05-08,16:30,Nasi Goreng,Makanan Berat,2,16000,0,32000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0201,2026-05-09,09:45,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0065,2026-05-09,11:20,Es Jeruk,Minuman,3,7000,0,21000,Cash,Ekonomi dan Bisnis
+TRX-0074,2026-05-09,11:50,Kopi Susu,Minuman,2,10000,0,20000,QRIS,Hukum
+TRX-0205,2026-05-09,13:20,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0160,2026-05-09,14:05,Es Jeruk,Minuman,1,7000,0,7000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0127,2026-05-09,14:45,Pisang Goreng,Snack,1,8000,3000,5000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0215,2026-05-09,15:15,Kopi Susu,Minuman,3,10000,0,30000,QRIS,Ilmu Komunikasi
+TRX-0164,2026-05-09,15:40,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0015,2026-05-09,16:20,Teh Tarik,Minuman,3,9000,0,27000,Cash,Ekonomi dan Bisnis
+TRX-0031,2026-05-09,16:50,Jus Alpukat,Minuman,3,12000,0,36000,Cash,Ilmu Komunikasi
+TRX-0195,2026-05-10,08:05,Jus Alpukat,Minuman,2,12000,1000,23000,Cash,Ekonomi dan Bisnis
+TRX-0039,2026-05-10,12:50,Es Teh,Minuman,5,5000,0,25000,QRIS,Ilmu Komunikasi
+TRX-0055,2026-05-10,14:50,Es Teh,Minuman,1,5000,0,5000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0093,2026-05-10,15:05,Pisang Goreng,Snack,1,8000,0,8000,QRIS,Hukum
+TRX-0156,2026-05-11,08:20,Es Teh,Minuman,2,5000,1000,9000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0175,2026-05-11,08:25,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0107,2026-05-11,08:50,Mie Goreng,Makanan Berat,1,14000,0,14000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0154,2026-05-11,09:05,Es Teh,Minuman,2,5000,0,10000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0171,2026-05-11,11:25,Mie Goreng,Makanan Berat,2,14000,0,28000,Cash,Ekonomi dan Bisnis
+TRX-0247,2026-05-11,12:45,Es Teh,Minuman,2,5000,1000,9000,Cash,Ilmu Komunikasi
+TRX-0071,2026-05-11,16:00,Es Teh,Minuman,3,5000,0,15000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0033,2026-05-11,16:05,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0199,2026-05-12,09:40,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Hukum
+TRX-0217,2026-05-12,10:25,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0172,2026-05-12,11:10,Es Jeruk,Minuman,3,7000,1000,20000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0185,2026-05-12,11:15,Nasi Ayam Geprek,Makanan Berat,1,18000,2000,16000,QRIS,Ilmu Komunikasi
+TRX-0128,2026-05-12,12:00,Es Teh,Minuman,5,5000,0,25000,Debit,Ekonomi dan Bisnis
+TRX-0135,2026-05-12,12:45,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0018,2026-05-12,13:35,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0013,2026-05-13,09:10,Bakso,Makanan Berat,3,15000,0,45000,QRIS,Ilmu Komunikasi
+TRX-0061,2026-05-13,09:30,Mie Goreng,Makanan Berat,1,14000,0,14000,Cash,Ilmu Komunikasi
+TRX-0139,2026-05-13,10:30,Pisang Goreng,Snack,2,8000,0,16000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0228,2026-05-13,11:25,Soto Ayam,Makanan Berat,1,17000,0,17000,QRIS,Ekonomi dan Bisnis
+TRX-0142,2026-05-13,11:50,Soto Ayam,Makanan Berat,3,17000,2000,49000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0136,2026-05-13,16:25,Kopi Susu,Minuman,4,10000,0,40000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0235,2026-05-14,08:45,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0004,2026-05-14,09:25,Bakso,Makanan Berat,1,15000,2000,13000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0222,2026-05-14,10:25,Kentang Goreng,Snack,3,10000,1000,29000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0152,2026-05-14,11:30,Nasi Goreng,Makanan Berat,2,16000,1000,31000,Cash,Ilmu Komunikasi
+TRX-0208,2026-05-14,12:20,Es Teh,Minuman,3,5000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0083,2026-05-14,12:35,Kopi Susu,Minuman,2,10000,0,20000,QRIS,Hukum
+TRX-0170,2026-05-14,12:55,Kopi Susu,Minuman,1,10000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0210,2026-05-14,13:40,Soto Ayam,Makanan Berat,3,17000,2000,49000,QRIS,Ekonomi dan Bisnis
+TRX-0106,2026-05-14,15:05,Es Jeruk,Minuman,1,7000,2000,5000,Cash,Ekonomi dan Bisnis
+TRX-0057,2026-05-14,16:35,Kopi Susu,Minuman,2,10000,0,20000,QRIS,Ekonomi dan Bisnis
+TRX-0155,2026-05-14,16:40,Nasi Ayam Geprek,Makanan Berat,2,18000,1000,35000,QRIS,Ekonomi dan Bisnis
+TRX-0096,2026-05-15,08:45,Air Mineral,Minuman,1,4000,0,4000,QRIS,Ekonomi dan Bisnis
+TRX-0149,2026-05-15,09:35,Es Teh,Minuman,1,5000,3000,2000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0066,2026-05-15,10:10,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ekonomi dan Bisnis
+TRX-0111,2026-05-15,12:30,Jus Alpukat,Minuman,2,12000,0,24000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0125,2026-05-15,12:50,Es Teh,Minuman,2,5000,0,10000,Cash,Ekonomi dan Bisnis
+TRX-0141,2026-05-15,13:00,Pisang Goreng,Snack,1,8000,0,8000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0153,2026-05-15,13:30,Air Mineral,Minuman,2,4000,1000,7000,QRIS,Ilmu Komunikasi
+TRX-0209,2026-05-15,13:45,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0213,2026-05-15,14:25,Jus Alpukat,Minuman,2,12000,0,24000,QRIS,Ekonomi dan Bisnis
+TRX-0012,2026-05-15,14:45,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ilmu Komunikasi
+TRX-0188,2026-05-15,15:15,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Debit,Ekonomi dan Bisnis
+TRX-0242,2026-05-16,08:45,Soto Ayam,Makanan Berat,1,17000,3000,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0243,2026-05-16,11:00,Nasi Goreng,Makanan Berat,1,16000,0,16000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0087,2026-05-16,11:20,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0203,2026-05-16,12:15,Es Teh,Minuman,3,5000,0,15000,Cash,Ekonomi dan Bisnis
+TRX-0248,2026-05-16,12:20,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Hukum
+TRX-0085,2026-05-16,12:40,Mie Goreng,Makanan Berat,2,14000,0,28000,Cash,Ilmu Komunikasi
+TRX-0233,2026-05-16,13:00,Nasi Ayam Geprek,Makanan Berat,2,18000,0,36000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0119,2026-05-16,13:50,Kopi Susu,Minuman,1,10000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0207,2026-05-16,14:05,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0060,2026-05-16,14:35,Es Teh,Minuman,3,5000,0,15000,Cash,Ekonomi dan Bisnis
+TRX-0021,2026-05-16,16:55,Jus Alpukat,Minuman,1,12000,0,12000,QRIS,Hukum
+TRX-0176,2026-05-17,09:45,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0239,2026-05-17,10:30,Pisang Goreng,Snack,2,8000,0,16000,QRIS,Ekonomi dan Bisnis
+TRX-0245,2026-05-17,10:40,Kopi Susu,Minuman,4,10000,1000,39000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0102,2026-05-17,12:00,Es Teh,Minuman,2,5000,0,10000,Cash,Ilmu Komunikasi
+TRX-0050,2026-05-17,12:10,Roti Bakar,Snack,4,12000,0,48000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0133,2026-05-17,12:55,Air Mineral,Minuman,3,4000,0,12000,Cash,Ekonomi dan Bisnis
+TRX-0053,2026-05-17,13:30,Jus Alpukat,Minuman,2,12000,0,24000,Cash,Ekonomi dan Bisnis
+TRX-0218,2026-05-17,13:40,Mie Goreng,Makanan Berat,3,14000,0,42000,QRIS,Ekonomi dan Bisnis
+TRX-0006,2026-05-18,09:00,Soto Ayam,Makanan Berat,1,17000,1000,16000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0098,2026-05-18,11:20,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0115,2026-05-18,11:55,Kentang Goreng,Snack,1,10000,0,10000,QRIS,Hukum
+TRX-0236,2026-05-18,12:45,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ilmu Komunikasi
+TRX-0200,2026-05-18,14:25,Kentang Goreng,Snack,4,10000,0,40000,QRIS,Ekonomi dan Bisnis
+TRX-0126,2026-05-18,14:55,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ekonomi dan Bisnis
+TRX-0189,2026-05-18,15:35,Mie Goreng,Makanan Berat,3,14000,0,42000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0225,2026-05-19,08:00,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0079,2026-05-19,09:45,Es Jeruk,Minuman,2,7000,0,14000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0078,2026-05-19,11:05,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0244,2026-05-19,11:30,Jus Alpukat,Minuman,1,12000,0,12000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0002,2026-05-19,11:55,Pisang Goreng,Snack,1,8000,0,8000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0129,2026-05-19,12:15,Air Mineral,Minuman,3,4000,3000,9000,Cash,Ilmu Komunikasi
+TRX-0219,2026-05-19,12:30,Roti Bakar,Snack,3,12000,0,36000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0051,2026-05-19,13:30,Teh Tarik,Minuman,1,9000,0,9000,QRIS,Ilmu Komunikasi
+TRX-0148,2026-05-19,16:20,Nasi Goreng,Makanan Berat,1,16000,2000,14000,QRIS,Ilmu Komunikasi
+TRX-0159,2026-05-20,08:10,Es Teh,Minuman,2,5000,0,10000,Cash,Ilmu Komunikasi
+TRX-0198,2026-05-20,08:45,Es Teh,Minuman,2,5000,0,10000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0157,2026-05-20,09:25,Bakso,Makanan Berat,1,15000,0,15000,QRIS,Ekonomi dan Bisnis
+TRX-0130,2026-05-20,10:50,Kopi Susu,Minuman,1,10000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0183,2026-05-20,10:50,Es Jeruk,Minuman,1,7000,0,7000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0110,2026-05-20,11:05,Kopi Susu,Minuman,3,10000,0,30000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0041,2026-05-20,12:00,Mie Goreng,Makanan Berat,1,14000,0,14000,Cash,Ekonomi dan Bisnis
+TRX-0035,2026-05-20,12:15,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0240,2026-05-20,12:35,Es Jeruk,Minuman,1,7000,0,7000,Cash,Ekonomi dan Bisnis
+TRX-0052,2026-05-20,14:00,Teh Tarik,Minuman,1,9000,1000,8000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0121,2026-05-20,14:05,Nasi Ayam Geprek,Makanan Berat,1,18000,2000,16000,Debit,Ilmu Komunikasi
+TRX-0229,2026-05-20,14:10,Nasi Goreng,Makanan Berat,2,16000,0,32000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0101,2026-05-20,14:20,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0173,2026-05-20,15:45,Nasi Goreng,Makanan Berat,2,16000,0,32000,Debit,Ekonomi dan Bisnis
+TRX-0177,2026-05-20,15:45,Kentang Goreng,Snack,2,10000,0,20000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0008,2026-05-21,09:45,Kopi Susu,Minuman,1,10000,0,10000,Cash,Ilmu Komunikasi
+TRX-0181,2026-05-21,10:25,Bakso,Makanan Berat,1,15000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0224,2026-05-21,10:45,Teh Tarik,Minuman,1,9000,0,9000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0003,2026-05-21,10:55,Es Jeruk,Minuman,2,7000,0,14000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0143,2026-05-21,11:05,Es Teh,Minuman,1,5000,0,5000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0027,2026-05-21,11:15,Teh Tarik,Minuman,1,9000,0,9000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0227,2026-05-21,11:50,Nasi Ayam Geprek,Makanan Berat,2,18000,0,36000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0140,2026-05-21,13:15,Nasi Goreng,Makanan Berat,1,16000,0,16000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0178,2026-05-21,13:55,Mie Goreng,Makanan Berat,1,14000,0,14000,Debit,Ekonomi dan Bisnis
+TRX-0014,2026-05-21,15:40,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ekonomi dan Bisnis
+TRX-0001,2026-05-21,16:05,Nasi Goreng,Makanan Berat,2,16000,0,32000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0214,2026-05-21,16:05,Soto Ayam,Makanan Berat,3,17000,0,51000,QRIS,Ekonomi dan Bisnis
+TRX-0009,2026-05-21,16:15,Nasi Goreng,Makanan Berat,2,16000,0,32000,QRIS,Hukum
+TRX-0151,2026-05-21,16:45,Es Teh,Minuman,3,5000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0187,2026-05-22,10:55,Bakso,Makanan Berat,2,15000,0,30000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0165,2026-05-22,11:10,Bakso,Makanan Berat,1,15000,3000,12000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0025,2026-05-22,11:35,Kentang Goreng,Snack,2,10000,0,20000,Cash,Ekonomi dan Bisnis
+TRX-0007,2026-05-22,12:35,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0036,2026-05-22,13:05,Es Jeruk,Minuman,1,7000,0,7000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0117,2026-05-22,13:05,Kopi Susu,Minuman,2,10000,0,20000,Debit,Ilmu Komputer dan Rekayasa
+TRX-0088,2026-05-22,13:25,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0010,2026-05-22,14:20,Bakso,Makanan Berat,2,15000,0,30000,Cash,Ilmu Komunikasi
+TRX-0237,2026-05-22,16:25,Es Teh,Minuman,1,5000,0,5000,QRIS,Hukum
+TRX-0167,2026-05-23,08:30,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0032,2026-05-23,08:55,Kentang Goreng,Snack,1,10000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0024,2026-05-23,11:20,Es Teh,Minuman,1,5000,2000,3000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0099,2026-05-23,11:30,Soto Ayam,Makanan Berat,2,17000,0,34000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0249,2026-05-23,12:20,Mie Goreng,Makanan Berat,2,14000,0,28000,QRIS,Hukum
+TRX-0150,2026-05-23,12:45,Air Mineral,Minuman,1,4000,0,4000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0220,2026-05-23,13:50,Es Jeruk,Minuman,2,7000,0,14000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0184,2026-05-23,14:40,Kopi Susu,Minuman,3,10000,0,30000,QRIS,Ekonomi dan Bisnis
+TRX-0022,2026-05-23,16:35,Mie Goreng,Makanan Berat,1,14000,3000,11000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0089,2026-05-23,16:55,Pisang Goreng,Snack,1,8000,0,8000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0070,2026-05-24,08:30,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0043,2026-05-24,10:40,Pisang Goreng,Snack,2,8000,0,16000,QRIS,Hukum
+TRX-0097,2026-05-24,11:10,Nasi Goreng,Makanan Berat,2,16000,0,32000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0056,2026-05-24,12:15,Air Mineral,Minuman,2,4000,0,8000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0202,2026-05-24,15:55,Es Jeruk,Minuman,1,7000,0,7000,QRIS,Ekonomi dan Bisnis
+TRX-0122,2026-05-25,08:25,Es Teh,Minuman,3,5000,0,15000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0190,2026-05-25,10:20,Soto Ayam,Makanan Berat,1,17000,0,17000,Debit,Ilmu Komunikasi
+TRX-0017,2026-05-25,11:10,Nasi Goreng,Makanan Berat,2,16000,1000,31000,QRIS,Ekonomi dan Bisnis
+TRX-0230,2026-05-25,11:10,Roti Bakar,Snack,2,12000,0,24000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0016,2026-05-25,12:40,Es Teh,Minuman,1,5000,0,5000,QRIS,Hukum
+TRX-0238,2026-05-25,13:35,Nasi Goreng,Makanan Berat,1,16000,0,16000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0174,2026-05-25,13:50,Es Teh,Minuman,2,5000,1000,9000,Cash,Hukum
+TRX-0166,2026-05-25,14:40,Mie Goreng,Makanan Berat,1,14000,0,14000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0080,2026-05-26,08:30,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ekonomi dan Bisnis
+TRX-0026,2026-05-26,08:50,Roti Bakar,Snack,1,12000,0,12000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0029,2026-05-26,09:15,Air Mineral,Minuman,2,4000,0,8000,Debit,Keguruan dan Ilmu Pendidikan
+TRX-0123,2026-05-26,10:10,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0058,2026-05-26,13:05,Air Mineral,Minuman,3,4000,0,12000,QRIS,Ekonomi dan Bisnis
+TRX-0047,2026-05-26,14:00,Es Teh,Minuman,3,5000,0,15000,QRIS,Ilmu Komunikasi
+TRX-0211,2026-05-26,15:00,Es Jeruk,Minuman,1,7000,0,7000,Cash,Ekonomi dan Bisnis
+TRX-0059,2026-05-27,08:15,Jus Alpukat,Minuman,1,12000,0,12000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0241,2026-05-27,08:45,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0105,2026-05-27,10:25,Kentang Goreng,Snack,1,10000,0,10000,QRIS,Ekonomi dan Bisnis
+TRX-0081,2026-05-27,10:30,Kentang Goreng,Snack,1,10000,0,10000,Cash,Ekonomi dan Bisnis
+TRX-0114,2026-05-27,10:35,Nasi Ayam Geprek,Makanan Berat,2,18000,1000,35000,QRIS,Ekonomi dan Bisnis
+TRX-0144,2026-05-27,10:45,Es Jeruk,Minuman,1,7000,0,7000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0091,2026-05-27,12:00,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ekonomi dan Bisnis
+TRX-0094,2026-05-27,12:05,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0064,2026-05-27,15:35,Es Jeruk,Minuman,2,7000,1000,13000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0112,2026-05-27,16:55,Kentang Goreng,Snack,2,10000,0,20000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0118,2026-05-28,10:05,Kopi Susu,Minuman,1,10000,2000,8000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0146,2026-05-28,10:20,Nasi Ayam Geprek,Makanan Berat,1,18000,0,18000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0048,2026-05-28,11:15,Pisang Goreng,Snack,1,8000,2000,6000,QRIS,Keguruan dan Ilmu Pendidikan
+TRX-0034,2026-05-28,11:45,Mie Goreng,Makanan Berat,1,14000,0,14000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0046,2026-05-28,13:30,Nasi Goreng,Makanan Berat,2,16000,0,32000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0005,2026-05-28,14:05,Bakso,Makanan Berat,1,15000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0134,2026-05-28,14:40,Bakso,Makanan Berat,1,15000,2000,13000,QRIS,Hukum
+TRX-0108,2026-05-28,15:00,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0120,2026-05-28,16:00,Es Teh,Minuman,4,5000,0,20000,Cash,Ekonomi dan Bisnis
+TRX-0158,2026-05-28,16:45,Es Teh,Minuman,1,5000,0,5000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0193,2026-05-29,09:25,Bakso,Makanan Berat,1,15000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
+TRX-0113,2026-05-29,16:20,Nasi Goreng,Makanan Berat,1,16000,0,16000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0223,2026-05-30,12:15,Es Jeruk,Minuman,1,7000,2000,5000,Cash,Keguruan dan Ilmu Pendidikan
+TRX-0132,2026-05-30,13:40,Soto Ayam,Makanan Berat,2,17000,0,34000,QRIS,Ekonomi dan Bisnis
+TRX-0137,2026-05-30,14:05,Es Teh,Minuman,2,5000,0,10000,QRIS,Ilmu Komunikasi
+TRX-0072,2026-05-30,15:10,Roti Bakar,Snack,2,12000,0,24000,Cash,Ilmu Komputer dan Rekayasa
+TRX-0232,2026-05-30,15:20,Es Teh,Minuman,1,5000,0,5000,QRIS,Ekonomi dan Bisnis
+TRX-0038,2026-05-30,16:55,Bakso,Makanan Berat,1,15000,0,15000,QRIS,Ilmu Komputer dan Rekayasa
