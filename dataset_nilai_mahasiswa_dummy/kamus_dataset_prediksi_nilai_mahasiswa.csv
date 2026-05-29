@@ -1,0 +1,17 @@
+kolom,keterangan,catatan_penggunaan
+id_mahasiswa,Kode unik mahasiswa sintetis,Tidak digunakan sebagai fitur prediksi
+semester,Semester mahasiswa,Bisa digunakan sebagai fitur
+kelas,Kelas mahasiswa,Perlu encoding jika digunakan sebagai fitur
+jenis_kelamin,Jenis kelamin sintetis: L/P,Perlu encoding jika digunakan sebagai fitur
+kehadiran_persen,Persentase kehadiran sebelum UAS,Fitur numerik yang tersedia sebelum UAS
+tugas_rata,Rata-rata nilai tugas sebelum UAS,Fitur numerik yang tersedia sebelum UAS
+kuis_rata,Rata-rata nilai kuis sebelum UAS,Fitur numerik yang tersedia sebelum UAS
+nilai_uts,Nilai UTS,Fitur numerik yang tersedia sebelum UAS
+akses_lms,Jumlah akses LMS selama periode perkuliahan,Fitur numerik yang tersedia sebelum UAS
+forum_posts,Jumlah posting/komentar forum diskusi,Fitur numerik yang tersedia sebelum UAS
+jam_belajar_per_minggu,Estimasi jam belajar per minggu,Fitur numerik yang tersedia sebelum UAS
+jumlah_terlambat_tugas,Jumlah keterlambatan pengumpulan tugas,Fitur numerik yang tersedia sebelum UAS
+ikut_bimbingan,Apakah mahasiswa mengikuti bimbingan/konsultasi tambahan,Perlu encoding jika digunakan sebagai fitur
+nilai_uas,Target regresi: nilai UAS yang ingin diprediksi,"Gunakan sebagai target regresi, jangan dijadikan fitur untuk memprediksi nilai_akhir"
+nilai_akhir,"Nilai akhir berbobot dari tugas, kuis, UTS, dan UAS","Bisa digunakan untuk membuat status_lulus, tapi jangan dipakai untuk memprediksi status_lulus"
+status_lulus,Target klasifikasi opsional: Lulus/Tidak Lulus berdasarkan nilai akhir,Gunakan sebagai target klasifikasi opsional
