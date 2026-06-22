@@ -1,0 +1,15 @@
+kolom,keterangan,contoh
+id_tiket,Kode unik tiket helpdesk,TIK00001
+tanggal_lapor,Tanggal tiket dilaporkan,2026-01-05
+hari_lapor,Hari saat tiket dilaporkan,Senin
+jam_lapor,Jam tiket dilaporkan,09:30
+unit_pelapor,Unit/bagian yang melapor,Akademik
+kategori_masalah,Jenis masalah IT,Internet/WiFi
+prioritas,Tingkat prioritas tiket,Sedang
+kanal_laporan,Media yang digunakan untuk melapor,WhatsApp
+waktu_respons_menit,Lama waktu sampai tiket pertama kali direspons,30
+waktu_selesai_jam,Lama waktu sampai tiket selesai ditangani,5.5
+jumlah_teknisi,Jumlah teknisi yang terlibat,1
+eskalasi,Apakah tiket naik ke penanganan lanjutan,Tidak
+status_sla,Apakah penyelesaian tiket memenuhi batas SLA,Sesuai SLA
+kepuasan_1_5,Skor kepuasan pelapor dari 1 sampai 5,4
